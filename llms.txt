@@ -1,0 +1,43 @@
+# Aniket Karandikar
+
+> Bachelor of Commerce graduate (Banking and Finance) based in Pune, Maharashtra, India, with work experience in the Indian financial sector. Currently pursuing a PGDM at IMDR Pune (2026 to 2028). Knows Python and SQL.
+
+Contact: aniketk6688@gmail.com
+Location: Pune, Maharashtra, India
+PDF resume: /Aniket_Karandikar_Resume.pdf
+
+## Summary
+
+Bachelor of Commerce graduate specializing in Banking and Finance, with relevant work experience in the Indian financial sector. Experienced in business support activities, with knowledge of Python and SQL and an interest in business operations and management.
+
+## Work experience
+
+### Finance Associate, KZ Associates, Pune (April 2024 to April 2025)
+- Coordinated with internal teams to ensure smooth execution of client requests.
+- Supported the client onboarding process, including account opening, documentation, and compliance requirements.
+- Maintained client records and prepared reports to support business operations.
+- Kept the team informed about client queries through regular communication with clients.
+
+### Assistant Analyst, Opulencia Capital Pvt Ltd, Pune (June 2023 to January 2024)
+- Assisted in managing client communication to ensure client queries were resolved.
+- Supported customer onboarding and the documentation process in accordance with compliance requirements.
+- Prepared client reports and maintained client records.
+- Contributed to business development activity through client follow-ups.
+- Played a leading role in the Assets Under Management (AUM) transfer to the company's sister concern, Opulencemoney, while ensuring proper documentation and coordination.
+
+## Education
+
+- Post Graduate Diploma in Management (PGDM), Institute of Management Development & Research (IMDR), Pune. Pursuing, 2026 to 2028.
+- Bachelor of Commerce (B.Com) in Banking and Finance, MIT World Peace University. CGPA 8.24. Completed 2023.
+- Higher Secondary Certificate (HSC), Sardar Dastur Hormazdiar Junior College. Completed 2020.
+- Secondary School Certificate (SSC), City International School. Completed 2018.
+
+## Skills
+
+- Functional: Finance, Analytics
+- Technical: Python, SQL, Python libraries (NumPy, Pandas, PyTorch)
+
+## Achievements and extra-curricular activities
+
+- Participated in a hackathon competition.
+- Created a finance newsletter.
